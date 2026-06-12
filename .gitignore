@@ -1,0 +1,4 @@
+.env
+venv/
+dfc_portfolio.xlsx
+__pycache__/

@@ -1,0 +1,730 @@
+borrower_name,country,due_date,amount_due,amount_paid,payment_status
+Democratic Republic Of The Sudan,Sudan,2026-03-03,95077.95,95077.95,On Time
+Democratic Republic Of The Sudan,Sudan,2026-04-02,95077.95,95077.95,On Time
+Democratic Republic Of The Sudan,Sudan,2026-05-02,95077.95,95077.95,On Time
+Republic of Indonesia,Indonesia,2026-03-03,17753.05,17753.05,On Time
+Republic of Indonesia,Indonesia,2026-04-02,17753.05,17753.05,On Time
+Republic of Indonesia,Indonesia,2026-05-02,17753.05,17753.05,On Time
+Department of External Resources,Sri Lanka,2026-03-03,27169.71,27169.71,Late
+Department of External Resources,Sri Lanka,2026-04-02,27169.71,27169.71,On Time
+Department of External Resources,Sri Lanka,2026-05-02,27169.71,27169.71,On Time
+Department of External Resources,Sri Lanka,2026-03-03,12833.33,12833.33,On Time
+Department of External Resources,Sri Lanka,2026-04-02,12833.33,12833.33,On Time
+Department of External Resources,Sri Lanka,2026-05-02,12833.33,12833.33,On Time
+Department of External Resources,Sri Lanka,2026-03-03,229166.67,229166.67,On Time
+Department of External Resources,Sri Lanka,2026-04-02,229166.67,229166.67,On Time
+Department of External Resources,Sri Lanka,2026-05-02,229166.67,229166.67,On Time
+Republic of India,India,2026-03-03,183333.33,183333.33,On Time
+Republic of India,India,2026-04-02,183333.33,183333.33,On Time
+Republic of India,India,2026-05-02,183333.33,183333.33,On Time
+Department of External Resources,Sri Lanka,2026-03-03,229166.67,229166.67,Late
+Department of External Resources,Sri Lanka,2026-04-02,229166.67,229166.67,On Time
+Department of External Resources,Sri Lanka,2026-05-02,229166.67,229166.67,Late
+Department of External Resources,Sri Lanka,2026-03-03,137500.0,137500.0,On Time
+Department of External Resources,Sri Lanka,2026-04-02,137500.0,137500.0,On Time
+Department of External Resources,Sri Lanka,2026-05-02,137500.0,137500.0,On Time
+Republic of Zimbabwe,Zimbabwe,2026-03-03,38032.24,0.0,Missed
+Republic of Zimbabwe,Zimbabwe,2026-04-02,38032.24,38032.24,On Time
+Republic of Zimbabwe,Zimbabwe,2026-05-02,38032.24,38032.24,On Time
+Department of External Resources,Sri Lanka,2026-03-03,18333.33,18333.33,On Time
+Department of External Resources,Sri Lanka,2026-04-02,18333.33,18333.33,Late
+Department of External Resources,Sri Lanka,2026-05-02,18333.33,18333.33,On Time
+Republic of Indonesia,Indonesia,2026-03-03,13750.0,13750.0,Late
+Republic of Indonesia,Indonesia,2026-04-02,13750.0,13750.0,On Time
+Republic of Indonesia,Indonesia,2026-05-02,13750.0,13750.0,On Time
+Republic of Indonesia,Indonesia,2026-03-03,13547.17,0.0,Missed
+Republic of Indonesia,Indonesia,2026-04-02,13547.17,13547.17,On Time
+Republic of Indonesia,Indonesia,2026-05-02,13547.17,13547.17,On Time
+Republic of Indonesia,Indonesia,2026-03-03,10779.84,10779.84,Late
+Republic of Indonesia,Indonesia,2026-04-02,10779.84,10779.84,On Time
+Republic of Indonesia,Indonesia,2026-05-02,10779.84,10779.84,Late
+Republic of India,India,2026-03-03,287833.33,287833.33,On Time
+Republic of India,India,2026-04-02,287833.33,287833.33,On Time
+Republic of India,India,2026-05-02,287833.33,287833.33,On Time
+Department of External Resources,Sri Lanka,2026-03-03,147726.46,147726.46,On Time
+Department of External Resources,Sri Lanka,2026-04-02,147726.46,147726.46,On Time
+Department of External Resources,Sri Lanka,2026-05-02,147726.46,147726.46,On Time
+Department of External Resources,Sri Lanka,2026-03-03,146666.67,146666.67,On Time
+Department of External Resources,Sri Lanka,2026-04-02,146666.67,146666.67,On Time
+Department of External Resources,Sri Lanka,2026-05-02,146666.67,146666.67,On Time
+Republic of Kenya,Kenya,2026-03-03,106333.33,106333.33,On Time
+Republic of Kenya,Kenya,2026-04-02,106333.33,106333.33,On Time
+Republic of Kenya,Kenya,2026-05-02,106333.33,106333.33,On Time
+Republic of India,India,2026-03-03,91666.67,91666.67,On Time
+Republic of India,India,2026-04-02,91666.67,91666.67,On Time
+Republic of India,India,2026-05-02,91666.67,0.0,Missed
+Republic of Indonesia,Indonesia,2026-03-03,47208.33,47208.33,On Time
+Republic of Indonesia,Indonesia,2026-04-02,47208.33,47208.33,On Time
+Republic of Indonesia,Indonesia,2026-05-02,47208.33,47208.33,On Time
+Department of External Resources,Sri Lanka,2026-03-03,43998.36,43998.36,On Time
+Department of External Resources,Sri Lanka,2026-04-02,43998.36,43998.36,On Time
+Department of External Resources,Sri Lanka,2026-05-02,43998.36,43998.36,On Time
+Republic of Indonesia,Indonesia,2026-03-03,35646.9,0.0,Missed
+Republic of Indonesia,Indonesia,2026-04-02,35646.9,35646.9,On Time
+Republic of Indonesia,Indonesia,2026-05-02,35646.9,35646.9,On Time
+Republic of India,India,2026-03-03,35384.0,35384.0,On Time
+Republic of India,India,2026-04-02,35384.0,35384.0,Late
+Republic of India,India,2026-05-02,35384.0,35384.0,On Time
+Republic of Indonesia,Indonesia,2026-03-03,32031.63,32031.63,On Time
+Republic of Indonesia,Indonesia,2026-04-02,32031.63,32031.63,On Time
+Republic of Indonesia,Indonesia,2026-05-02,32031.63,32031.63,On Time
+Republic of Indonesia,Indonesia,2026-03-03,26988.0,26988.0,On Time
+Republic of Indonesia,Indonesia,2026-04-02,26988.0,26988.0,On Time
+Republic of Indonesia,Indonesia,2026-05-02,26988.0,0.0,Missed
+Republic of India,India,2026-03-03,18333.33,18333.33,Late
+Republic of India,India,2026-04-02,18333.33,18333.33,On Time
+Republic of India,India,2026-05-02,18333.33,18333.33,On Time
+Department of External Resources,Sri Lanka,2026-03-03,17835.48,17835.48,On Time
+Department of External Resources,Sri Lanka,2026-04-02,17835.48,0.0,Missed
+Department of External Resources,Sri Lanka,2026-05-02,17835.48,17835.48,On Time
+Republic of India,India,2026-03-03,228250.0,228250.0,On Time
+Republic of India,India,2026-04-02,228250.0,228250.0,On Time
+Republic of India,India,2026-05-02,228250.0,228250.0,On Time
+Department of External Resources,Sri Lanka,2026-03-03,223381.68,223381.68,On Time
+Department of External Resources,Sri Lanka,2026-04-02,223381.68,223381.68,On Time
+Department of External Resources,Sri Lanka,2026-05-02,223381.68,223381.68,Late
+Republic of Indonesia,Indonesia,2026-03-03,130276.55,130276.55,On Time
+Republic of Indonesia,Indonesia,2026-04-02,130276.55,130276.55,On Time
+Republic of Indonesia,Indonesia,2026-05-02,130276.55,0.0,Missed
+Republic of Kenya,Kenya,2026-03-03,119166.66,119166.66,On Time
+Republic of Kenya,Kenya,2026-04-02,119166.66,119166.66,On Time
+Republic of Kenya,Kenya,2026-05-02,119166.66,119166.66,On Time
+Republic of India,India,2026-03-03,118506.67,118506.67,On Time
+Republic of India,India,2026-04-02,118506.67,118506.67,On Time
+Republic of India,India,2026-05-02,118506.67,118506.67,On Time
+Republic of Kenya,Kenya,2026-03-03,85380.23,85380.23,On Time
+Republic of Kenya,Kenya,2026-04-02,85380.23,85380.23,On Time
+Republic of Kenya,Kenya,2026-05-02,85380.23,85380.23,On Time
+Republic of India,India,2026-03-03,69666.66,0.0,Missed
+Republic of India,India,2026-04-02,69666.66,69666.66,On Time
+Republic of India,India,2026-05-02,69666.66,0.0,Missed
+Republic of Indonesia,Indonesia,2026-03-03,57757.07,57757.07,Late
+Republic of Indonesia,Indonesia,2026-04-02,57757.07,57757.07,On Time
+Republic of Indonesia,Indonesia,2026-05-02,57757.07,57757.07,On Time
+Republic of Indonesia,Indonesia,2026-03-03,49340.94,49340.94,On Time
+Republic of Indonesia,Indonesia,2026-04-02,49340.94,49340.94,On Time
+Republic of Indonesia,Indonesia,2026-05-02,49340.94,49340.94,On Time
+Republic of Indonesia,Indonesia,2026-03-03,40070.33,40070.33,On Time
+Republic of Indonesia,Indonesia,2026-04-02,40070.33,40070.33,On Time
+Republic of Indonesia,Indonesia,2026-05-02,40070.33,40070.33,On Time
+Republic of India,India,2026-03-03,39824.47,39824.47,On Time
+Republic of India,India,2026-04-02,39824.47,0.0,Missed
+Republic of India,India,2026-05-02,39824.47,39824.47,Late
+Republic of Indonesia,Indonesia,2026-03-03,38904.1,38904.1,On Time
+Republic of Indonesia,Indonesia,2026-04-02,38904.1,38904.1,On Time
+Republic of Indonesia,Indonesia,2026-05-02,38904.1,38904.1,On Time
+Republic of Indonesia,Indonesia,2026-03-03,36081.04,0.0,Missed
+Republic of Indonesia,Indonesia,2026-04-02,36081.04,36081.04,Late
+Republic of Indonesia,Indonesia,2026-05-02,36081.04,36081.04,On Time
+Department of External Resources,Sri Lanka,2026-03-03,27847.78,27847.78,On Time
+Department of External Resources,Sri Lanka,2026-04-02,27847.78,27847.78,On Time
+Department of External Resources,Sri Lanka,2026-05-02,27847.78,27847.78,On Time
+Republic of Indonesia,Indonesia,2026-03-03,20668.77,20668.77,On Time
+Republic of Indonesia,Indonesia,2026-04-02,20668.77,20668.77,On Time
+Republic of Indonesia,Indonesia,2026-05-02,20668.77,20668.77,On Time
+Republic of Indonesia,Indonesia,2026-03-03,19250.0,19250.0,On Time
+Republic of Indonesia,Indonesia,2026-04-02,19250.0,19250.0,On Time
+Republic of Indonesia,Indonesia,2026-05-02,19250.0,19250.0,On Time
+Department of External Resources,Sri Lanka,2026-03-03,17024.21,17024.21,On Time
+Department of External Resources,Sri Lanka,2026-04-02,17024.21,0.0,Missed
+Department of External Resources,Sri Lanka,2026-05-02,17024.21,17024.21,Late
+Department of External Resources,Sri Lanka,2026-03-03,13558.39,13558.39,Late
+Department of External Resources,Sri Lanka,2026-04-02,13558.39,13558.39,On Time
+Department of External Resources,Sri Lanka,2026-05-02,13558.39,13558.39,On Time
+Republic of Indonesia,Indonesia,2026-03-03,11000.0,11000.0,Late
+Republic of Indonesia,Indonesia,2026-04-02,11000.0,0.0,Missed
+Republic of Indonesia,Indonesia,2026-05-02,11000.0,11000.0,On Time
+Republic of Indonesia,Indonesia,2026-03-03,10725.0,10725.0,On Time
+Republic of Indonesia,Indonesia,2026-04-02,10725.0,10725.0,On Time
+Republic of Indonesia,Indonesia,2026-05-02,10725.0,10725.0,On Time
+Republic of Indonesia,Indonesia,2026-03-03,9166.67,9166.67,On Time
+Republic of Indonesia,Indonesia,2026-04-02,9166.67,9166.67,On Time
+Republic of Indonesia,Indonesia,2026-05-02,9166.67,9166.67,On Time
+Republic of India,India,2026-03-03,150333.33,150333.33,On Time
+Republic of India,India,2026-04-02,150333.33,150333.33,On Time
+Republic of India,India,2026-05-02,150333.33,150333.33,Late
+Republic of India,India,2026-03-03,91502.35,91502.35,On Time
+Republic of India,India,2026-04-02,91502.35,91502.35,On Time
+Republic of India,India,2026-05-02,91502.35,91502.35,On Time
+Department of External Resources,Sri Lanka,2026-03-03,71129.18,71129.18,On Time
+Department of External Resources,Sri Lanka,2026-04-02,71129.18,71129.18,On Time
+Department of External Resources,Sri Lanka,2026-05-02,71129.18,71129.18,On Time
+Republic of Indonesia,Indonesia,2026-03-03,38238.67,0.0,Missed
+Republic of Indonesia,Indonesia,2026-04-02,38238.67,38238.67,On Time
+Republic of Indonesia,Indonesia,2026-05-02,38238.67,38238.67,On Time
+Republic of Indonesia,Indonesia,2026-03-03,37354.17,37354.17,On Time
+Republic of Indonesia,Indonesia,2026-04-02,37354.17,37354.17,On Time
+Republic of Indonesia,Indonesia,2026-05-02,37354.17,37354.17,On Time
+Republic of Indonesia,Indonesia,2026-03-03,30838.26,30838.26,On Time
+Republic of Indonesia,Indonesia,2026-04-02,30838.26,30838.26,On Time
+Republic of Indonesia,Indonesia,2026-05-02,30838.26,30838.26,On Time
+Department of External Resources,Sri Lanka,2026-03-03,29073.73,29073.73,On Time
+Department of External Resources,Sri Lanka,2026-04-02,29073.73,29073.73,On Time
+Department of External Resources,Sri Lanka,2026-05-02,29073.73,29073.73,On Time
+Republic of Indonesia,Indonesia,2026-03-03,21709.98,21709.98,On Time
+Republic of Indonesia,Indonesia,2026-04-02,21709.98,0.0,Missed
+Republic of Indonesia,Indonesia,2026-05-02,21709.98,21709.98,Late
+Republic of Indonesia,Indonesia,2026-03-03,17957.5,17957.5,On Time
+Republic of Indonesia,Indonesia,2026-04-02,17957.5,17957.5,On Time
+Republic of Indonesia,Indonesia,2026-05-02,17957.5,17957.5,On Time
+Republic of Indonesia,Indonesia,2026-03-03,16801.78,16801.78,On Time
+Republic of Indonesia,Indonesia,2026-04-02,16801.78,16801.78,On Time
+Republic of Indonesia,Indonesia,2026-05-02,16801.78,0.0,Missed
+Department of External Resources,Sri Lanka,2026-03-03,13742.1,13742.1,On Time
+Department of External Resources,Sri Lanka,2026-04-02,13742.1,13742.1,On Time
+Department of External Resources,Sri Lanka,2026-05-02,13742.1,13742.1,On Time
+Department of External Resources,Sri Lanka,2026-03-03,12285.63,12285.63,Late
+Department of External Resources,Sri Lanka,2026-04-02,12285.63,12285.63,On Time
+Department of External Resources,Sri Lanka,2026-05-02,12285.63,12285.63,On Time
+Republic of India,India,2026-03-03,192500.0,192500.0,On Time
+Republic of India,India,2026-04-02,192500.0,192500.0,On Time
+Republic of India,India,2026-05-02,192500.0,192500.0,On Time
+Department of External Resources,Sri Lanka,2026-03-03,52187.7,52187.7,On Time
+Department of External Resources,Sri Lanka,2026-04-02,52187.7,52187.7,On Time
+Department of External Resources,Sri Lanka,2026-05-02,52187.7,0.0,Missed
+Department of External Resources,Sri Lanka,2026-03-03,32520.43,32520.43,On Time
+Department of External Resources,Sri Lanka,2026-04-02,32520.43,32520.43,On Time
+Department of External Resources,Sri Lanka,2026-05-02,32520.43,32520.43,On Time
+Republic of Indonesia,Indonesia,2026-03-03,30459.93,30459.93,Late
+Republic of Indonesia,Indonesia,2026-04-02,30459.93,30459.93,On Time
+Republic of Indonesia,Indonesia,2026-05-02,30459.93,30459.93,On Time
+Republic of India,India,2026-03-03,29796.9,29796.9,On Time
+Republic of India,India,2026-04-02,29796.9,29796.9,On Time
+Republic of India,India,2026-05-02,29796.9,29796.9,On Time
+Republic of Indonesia,Indonesia,2026-03-03,19486.97,19486.97,On Time
+Republic of Indonesia,Indonesia,2026-04-02,19486.97,0.0,Missed
+Republic of Indonesia,Indonesia,2026-05-02,19486.97,19486.97,On Time
+Department of External Resources,Sri Lanka,2026-03-03,16906.2,16906.2,Late
+Department of External Resources,Sri Lanka,2026-04-02,16906.2,16906.2,On Time
+Department of External Resources,Sri Lanka,2026-05-02,16906.2,16906.2,On Time
+Republic of Indonesia,Indonesia,2026-03-03,16271.12,0.0,Missed
+Republic of Indonesia,Indonesia,2026-04-02,16271.12,16271.12,Late
+Republic of Indonesia,Indonesia,2026-05-02,16271.12,0.0,Missed
+Republic of Indonesia,Indonesia,2026-03-03,16059.34,0.0,Missed
+Republic of Indonesia,Indonesia,2026-04-02,16059.34,16059.34,Late
+Republic of Indonesia,Indonesia,2026-05-02,16059.34,16059.34,On Time
+Republic of Kenya,Kenya,2026-03-03,15806.21,15806.21,On Time
+Republic of Kenya,Kenya,2026-04-02,15806.21,15806.21,On Time
+Republic of Kenya,Kenya,2026-05-02,15806.21,15806.21,On Time
+Republic of Indonesia,Indonesia,2026-03-03,15739.27,15739.27,On Time
+Republic of Indonesia,Indonesia,2026-04-02,15739.27,15739.27,On Time
+Republic of Indonesia,Indonesia,2026-05-02,15739.27,0.0,Missed
+Department of External Resources,Sri Lanka,2026-03-03,10752.97,10752.97,On Time
+Department of External Resources,Sri Lanka,2026-04-02,10752.97,10752.97,On Time
+Department of External Resources,Sri Lanka,2026-05-02,10752.97,10752.97,On Time
+Republic of India,India,2026-03-03,105416.66,105416.66,On Time
+Republic of India,India,2026-04-02,105416.66,0.0,Missed
+Republic of India,India,2026-05-02,105416.66,0.0,Missed
+Republic of Indonesia,Indonesia,2026-03-03,73034.99,73034.99,On Time
+Republic of Indonesia,Indonesia,2026-04-02,73034.99,73034.99,On Time
+Republic of Indonesia,Indonesia,2026-05-02,73034.99,73034.99,On Time
+Republic of India,India,2026-03-03,45833.33,45833.33,On Time
+Republic of India,India,2026-04-02,45833.33,0.0,Missed
+Republic of India,India,2026-05-02,45833.33,45833.33,On Time
+Department of External Resources,Sri Lanka,2026-03-03,29951.88,29951.88,On Time
+Department of External Resources,Sri Lanka,2026-04-02,29951.88,29951.88,On Time
+Department of External Resources,Sri Lanka,2026-05-02,29951.88,29951.88,On Time
+Department of External Resources,Sri Lanka,2026-03-03,28532.05,28532.05,On Time
+Department of External Resources,Sri Lanka,2026-04-02,28532.05,28532.05,On Time
+Department of External Resources,Sri Lanka,2026-05-02,28532.05,28532.05,Late
+Republic of Indonesia,Indonesia,2026-03-03,16243.84,16243.84,On Time
+Republic of Indonesia,Indonesia,2026-04-02,16243.84,0.0,Missed
+Republic of Indonesia,Indonesia,2026-05-02,16243.84,16243.84,On Time
+Republic of Indonesia,Indonesia,2026-03-03,11213.0,11213.0,On Time
+Republic of Indonesia,Indonesia,2026-04-02,11213.0,11213.0,On Time
+Republic of Indonesia,Indonesia,2026-05-02,11213.0,11213.0,On Time
+Republic of Indonesia,Indonesia,2026-03-03,11146.18,11146.18,On Time
+Republic of Indonesia,Indonesia,2026-04-02,11146.18,11146.18,On Time
+Republic of Indonesia,Indonesia,2026-05-02,11146.18,11146.18,Late
+Republic of Kenya,Kenya,2026-03-03,35754.21,35754.21,On Time
+Republic of Kenya,Kenya,2026-04-02,35754.21,35754.21,On Time
+Republic of Kenya,Kenya,2026-05-02,35754.21,35754.21,On Time
+Republic of Kenya,Kenya,2026-03-03,16423.21,16423.21,On Time
+Republic of Kenya,Kenya,2026-04-02,16423.21,16423.21,On Time
+Republic of Kenya,Kenya,2026-05-02,16423.21,16423.21,On Time
+Liberian Enterprise Development Finance Co,Liberia,2026-03-03,183333.33,0.0,Missed
+Liberian Enterprise Development Finance Co,Liberia,2026-04-02,183333.33,183333.33,On Time
+Liberian Enterprise Development Finance Co,Liberia,2026-05-02,183333.33,183333.33,On Time
+ContourGlobal Togo S.A.,Togo,2026-03-03,1218750.0,1218750.0,On Time
+ContourGlobal Togo S.A.,Togo,2026-04-02,1218750.0,1218750.0,On Time
+ContourGlobal Togo S.A.,Togo,2026-05-02,1218750.0,1218750.0,On Time
+AST Telecom Solar Private Limited,India,2026-03-03,1250000.0,1250000.0,On Time
+AST Telecom Solar Private Limited,India,2026-04-02,1250000.0,1250000.0,On Time
+AST Telecom Solar Private Limited,India,2026-05-02,1250000.0,1250000.0,On Time
+SFC Finance Limited,Africa Regional,2026-03-03,458333.33,458333.33,On Time
+SFC Finance Limited,Africa Regional,2026-04-02,458333.33,458333.33,On Time
+SFC Finance Limited,Africa Regional,2026-05-02,458333.33,0.0,Missed
+Schulze Global Finance Facility Mongolia,Mongolia,2026-03-03,91666.66,0.0,Missed
+Schulze Global Finance Facility Mongolia,Mongolia,2026-04-02,91666.66,91666.66,On Time
+Schulze Global Finance Facility Mongolia,Mongolia,2026-05-02,91666.66,91666.66,On Time
+Azura-Edo Power Project- Senior Loan,Nigeria,2026-03-03,291666.67,291666.67,On Time
+Azura-Edo Power Project- Senior Loan,Nigeria,2026-04-02,291666.67,0.0,Missed
+Azura-Edo Power Project- Senior Loan,Nigeria,2026-05-02,291666.67,291666.67,Late
+Azura-Edo Power Project- Junior Loan,Nigeria,2026-03-03,195061.32,195061.32,Late
+Azura-Edo Power Project- Junior Loan,Nigeria,2026-04-02,195061.32,195061.32,On Time
+Azura-Edo Power Project- Junior Loan,Nigeria,2026-05-02,195061.32,195061.32,On Time
+ContourGlobal Cap des Biches,Senegal,2026-03-03,833333.33,833333.33,Late
+ContourGlobal Cap des Biches,Senegal,2026-04-02,833333.33,833333.33,On Time
+ContourGlobal Cap des Biches,Senegal,2026-05-02,833333.33,833333.33,On Time
+Txtlight Power Solutions Limited (Lumos),Nigeria,2026-03-03,125000.0,0.0,Missed
+Txtlight Power Solutions Limited (Lumos),Nigeria,2026-04-02,125000.0,125000.0,On Time
+Txtlight Power Solutions Limited (Lumos),Nigeria,2026-05-02,125000.0,125000.0,On Time
+One Acre Fund,Africa Regional,2026-03-03,91666.67,91666.67,Late
+One Acre Fund,Africa Regional,2026-04-02,91666.67,91666.67,On Time
+One Acre Fund,Africa Regional,2026-05-02,91666.67,91666.67,On Time
+"Livelihood Impact Fund, L.P.",Asia Regional,2026-03-03,114583.33,0.0,Missed
+"Livelihood Impact Fund, L.P.",Asia Regional,2026-04-02,114583.33,114583.33,On Time
+"Livelihood Impact Fund, L.P.",Asia Regional,2026-05-02,114583.33,114583.33,On Time
+Parc Eolien Taiba NDiaye S.A. (Direct Loan),Senegal,2026-03-03,1034166.67,1034166.67,On Time
+Parc Eolien Taiba NDiaye S.A. (Direct Loan),Senegal,2026-04-02,1034166.67,1034166.67,On Time
+Parc Eolien Taiba NDiaye S.A. (Direct Loan),Senegal,2026-05-02,1034166.67,1034166.67,On Time
+ContourGlobal Cap des Biches Senegal,Senegal,2026-03-03,441666.67,441666.67,On Time
+ContourGlobal Cap des Biches Senegal,Senegal,2026-04-02,441666.67,441666.67,On Time
+ContourGlobal Cap des Biches Senegal,Senegal,2026-05-02,441666.67,441666.67,On Time
+Txtlight Power Solutions Limited II,Nigeria,2026-03-03,291666.67,291666.67,On Time
+Txtlight Power Solutions Limited II,Nigeria,2026-04-02,291666.67,291666.67,On Time
+Txtlight Power Solutions Limited II,Nigeria,2026-05-02,291666.67,291666.67,On Time
+Butama Hydro Electricity Company,Uganda,2026-03-03,113750.0,0.0,Missed
+Butama Hydro Electricity Company,Uganda,2026-04-02,113750.0,113750.0,Late
+Butama Hydro Electricity Company,Uganda,2026-05-02,113750.0,113750.0,On Time
+ALCB Fund S.A. SICAV-RAIF,Africa Regional,2026-03-03,366666.67,366666.67,On Time
+ALCB Fund S.A. SICAV-RAIF,Africa Regional,2026-04-02,366666.67,366666.67,On Time
+ALCB Fund S.A. SICAV-RAIF,Africa Regional,2026-05-02,366666.67,366666.67,On Time
+Water Credit Investment Fund 3,Asia Regional,2026-03-03,183333.33,183333.33,On Time
+Water Credit Investment Fund 3,Asia Regional,2026-04-02,183333.33,183333.33,On Time
+Water Credit Investment Fund 3,Asia Regional,2026-05-02,183333.33,183333.33,On Time
+Ndugutu Power Company Uganda Limited,Uganda,2026-03-03,103250.0,103250.0,On Time
+Ndugutu Power Company Uganda Limited,Uganda,2026-04-02,103250.0,103250.0,On Time
+Ndugutu Power Company Uganda Limited,Uganda,2026-05-02,103250.0,103250.0,On Time
+Orb Energy,India,2026-03-03,83333.33,83333.33,On Time
+Orb Energy,India,2026-04-02,83333.33,83333.33,On Time
+Orb Energy,India,2026-05-02,83333.33,83333.33,Late
+BRAC Myanmar,Burma,2026-03-03,45833.33,0.0,Missed
+BRAC Myanmar,Burma,2026-04-02,45833.33,45833.33,On Time
+BRAC Myanmar,Burma,2026-05-02,45833.33,45833.33,Late
+Early Dawn Microfinance Company Ltd.,Burma,2026-03-03,45833.33,45833.33,On Time
+Early Dawn Microfinance Company Ltd.,Burma,2026-04-02,45833.33,45833.33,On Time
+Early Dawn Microfinance Company Ltd.,Burma,2026-05-02,45833.33,45833.33,On Time
+Africa Eye Foundation,Cameroon,2026-03-03,20000.0,20000.0,On Time
+Africa Eye Foundation,Cameroon,2026-04-02,20000.0,20000.0,Late
+Africa Eye Foundation,Cameroon,2026-05-02,20000.0,20000.0,On Time
+ADM Capital Somei Lending Platform Ltd. (Senior),Asia Regional,2026-03-03,366666.67,366666.67,Late
+ADM Capital Somei Lending Platform Ltd. (Senior),Asia Regional,2026-04-02,366666.67,366666.67,Late
+ADM Capital Somei Lending Platform Ltd. (Senior),Asia Regional,2026-05-02,366666.67,366666.67,On Time
+ADM Capital Somei Lending Platform Ltd. (Subordinated),Asia Regional,2026-03-03,91666.67,91666.67,On Time
+ADM Capital Somei Lending Platform Ltd. (Subordinated),Asia Regional,2026-04-02,91666.67,91666.67,On Time
+ADM Capital Somei Lending Platform Ltd. (Subordinated),Asia Regional,2026-05-02,91666.67,91666.67,On Time
+Gigawatt Global Burundi S.A.,Burundi,2026-03-03,83333.33,83333.33,Late
+Gigawatt Global Burundi S.A.,Burundi,2026-04-02,83333.33,83333.33,On Time
+Gigawatt Global Burundi S.A.,Burundi,2026-05-02,83333.33,83333.33,On Time
+LuccaHealth Medical Specialty Center Ghana Limited,Ghana,2026-03-03,75000.0,75000.0,On Time
+LuccaHealth Medical Specialty Center Ghana Limited,Ghana,2026-04-02,75000.0,0.0,Missed
+LuccaHealth Medical Specialty Center Ghana Limited,Ghana,2026-05-02,75000.0,75000.0,Late
+Be Well Hospitals Pvt Ltd.,India,2026-03-03,46150.0,0.0,Missed
+Be Well Hospitals Pvt Ltd.,India,2026-04-02,46150.0,46150.0,Late
+Be Well Hospitals Pvt Ltd.,India,2026-05-02,46150.0,46150.0,Late
+AV Ventures Ghana LLC,Ghana,2026-03-03,18333.33,18333.33,On Time
+AV Ventures Ghana LLC,Ghana,2026-04-02,18333.33,18333.33,On Time
+AV Ventures Ghana LLC,Ghana,2026-05-02,18333.33,18333.33,On Time
+Gobi Finance Non-Bank Finance Institution,Mongolia,2026-03-03,18333.33,0.0,Missed
+Gobi Finance Non-Bank Finance Institution,Mongolia,2026-04-02,18333.33,18333.33,Late
+Gobi Finance Non-Bank Finance Institution,Mongolia,2026-05-02,18333.33,18333.33,Late
+Quadria Capital Fund II L.P.,Asia Regional,2026-03-03,1375000.0,1375000.0,Late
+Quadria Capital Fund II L.P.,Asia Regional,2026-04-02,1375000.0,1375000.0,On Time
+Quadria Capital Fund II L.P.,Asia Regional,2026-05-02,1375000.0,1375000.0,On Time
+Somerset Indus Healthcare Fund II,India,2026-03-03,229166.67,229166.67,On Time
+Somerset Indus Healthcare Fund II,India,2026-04-02,229166.67,229166.67,Late
+Somerset Indus Healthcare Fund II,India,2026-05-02,229166.67,229166.67,Late
+Iron Pillar Fund I Ltd.,India,2026-03-03,229166.67,229166.67,On Time
+Iron Pillar Fund I Ltd.,India,2026-04-02,229166.67,229166.67,Late
+Iron Pillar Fund I Ltd.,India,2026-05-02,229166.67,229166.67,On Time
+Sewa Grih Rin Limited,India,2026-03-03,275000.0,275000.0,On Time
+Sewa Grih Rin Limited,India,2026-04-02,275000.0,275000.0,On Time
+Sewa Grih Rin Limited,India,2026-05-02,275000.0,275000.0,On Time
+Thirumeni Finance Private Limited d/b/a Varthana,India,2026-03-03,137500.0,137500.0,On Time
+Thirumeni Finance Private Limited d/b/a Varthana,India,2026-04-02,137500.0,137500.0,On Time
+Thirumeni Finance Private Limited d/b/a Varthana,India,2026-05-02,137500.0,137500.0,On Time
+One Acre Fund,Africa Regional,2026-03-03,91666.67,91666.67,Late
+One Acre Fund,Africa Regional,2026-04-02,91666.67,0.0,Missed
+One Acre Fund,Africa Regional,2026-05-02,91666.67,91666.67,On Time
+Finlux ELLEN Sàrl,Chad,2026-03-03,83333.33,83333.33,On Time
+Finlux ELLEN Sàrl,Chad,2026-04-02,83333.33,83333.33,On Time
+Finlux ELLEN Sàrl,Chad,2026-05-02,83333.33,0.0,Missed
+Proximity Finance,Burma,2026-03-03,73333.33,73333.33,On Time
+Proximity Finance,Burma,2026-04-02,73333.33,0.0,Missed
+Proximity Finance,Burma,2026-05-02,73333.33,73333.33,On Time
+Africa Finance Corporation (Tier II),Africa Regional,2026-03-03,2291666.67,0.0,Missed
+Africa Finance Corporation (Tier II),Africa Regional,2026-04-02,2291666.67,2291666.67,On Time
+Africa Finance Corporation (Tier II),Africa Regional,2026-05-02,2291666.67,0.0,Missed
+Central Termica de Temane,Mozambique,2026-03-03,1666666.67,1666666.67,On Time
+Central Termica de Temane,Mozambique,2026-04-02,1666666.67,1666666.67,On Time
+Central Termica de Temane,Mozambique,2026-05-02,1666666.67,1666666.67,On Time
+RENEW2 - ReNew Sun Bright Private Limited,India,2026-03-03,1183333.33,1183333.33,On Time
+RENEW2 - ReNew Sun Bright Private Limited,India,2026-04-02,1183333.33,1183333.33,On Time
+RENEW2 - ReNew Sun Bright Private Limited,India,2026-05-02,1183333.33,1183333.33,On Time
+ReNew Solar Power Private Limited,India,2026-03-03,625000.0,625000.0,On Time
+ReNew Solar Power Private Limited,India,2026-04-02,625000.0,625000.0,On Time
+ReNew Solar Power Private Limited,India,2026-05-02,625000.0,625000.0,On Time
+RENEW2 - ReNew Sun Energy Pvt Ltd (RSEPL),India,2026-03-03,445833.33,445833.33,On Time
+RENEW2 - ReNew Sun Energy Pvt Ltd (RSEPL),India,2026-04-02,445833.33,445833.33,On Time
+RENEW2 - ReNew Sun Energy Pvt Ltd (RSEPL),India,2026-05-02,445833.33,445833.33,On Time
+Sitara Solar Energy Private Limited,India,2026-03-03,416666.67,0.0,Missed
+Sitara Solar Energy Private Limited,India,2026-04-02,416666.67,416666.67,On Time
+Sitara Solar Energy Private Limited,India,2026-05-02,416666.67,416666.67,On Time
+Northern Arc Capital Limited,India,2026-03-03,458333.33,458333.33,On Time
+Northern Arc Capital Limited,India,2026-04-02,458333.33,458333.33,On Time
+Northern Arc Capital Limited,India,2026-05-02,458333.33,458333.33,On Time
+Paryapt Solar Energy Private Limited,India,2026-03-03,227500.0,227500.0,On Time
+Paryapt Solar Energy Private Limited,India,2026-04-02,227500.0,227500.0,On Time
+Paryapt Solar Energy Private Limited,India,2026-05-02,227500.0,227500.0,On Time
+Caspian Impact Investments II,India,2026-03-03,183333.33,183333.33,On Time
+Caspian Impact Investments II,India,2026-04-02,183333.33,183333.33,Late
+Caspian Impact Investments II,India,2026-05-02,183333.33,183333.33,On Time
+Samunnati Financial Intermediation & Services Private Limited,India,2026-03-03,183333.33,183333.33,On Time
+Samunnati Financial Intermediation & Services Private Limited,India,2026-04-02,183333.33,183333.33,On Time
+Samunnati Financial Intermediation & Services Private Limited,India,2026-05-02,183333.33,183333.33,On Time
+Australis Aquaculture Vietnam Limited,Vietnam,2026-03-03,119166.67,119166.67,On Time
+Australis Aquaculture Vietnam Limited,Vietnam,2026-04-02,119166.67,119166.67,On Time
+Australis Aquaculture Vietnam Limited,Vietnam,2026-05-02,119166.67,119166.67,On Time
+CapPlus Impact,Africa Regional,2026-03-03,91666.67,91666.67,On Time
+CapPlus Impact,Africa Regional,2026-04-02,91666.67,0.0,Missed
+CapPlus Impact,Africa Regional,2026-05-02,91666.67,91666.67,On Time
+Milk Mantra Dairy Private Limited,India,2026-03-03,108333.33,0.0,Missed
+Milk Mantra Dairy Private Limited,India,2026-04-02,108333.33,108333.33,On Time
+Milk Mantra Dairy Private Limited,India,2026-05-02,108333.33,108333.33,On Time
+Iungo Capital B.V.,Africa Regional,2026-03-03,36666.67,36666.67,On Time
+Iungo Capital B.V.,Africa Regional,2026-04-02,36666.67,36666.67,On Time
+Iungo Capital B.V.,Africa Regional,2026-05-02,36666.67,36666.67,On Time
+Government of Somalia,Somalia,2026-03-03,139635.09,139635.09,On Time
+Government of Somalia,Somalia,2026-04-02,139635.09,139635.09,On Time
+Government of Somalia,Somalia,2026-05-02,139635.09,139635.09,On Time
+Government of Somalia,Somalia,2026-03-03,26833.93,26833.93,On Time
+Government of Somalia,Somalia,2026-04-02,26833.93,26833.93,On Time
+Government of Somalia,Somalia,2026-05-02,26833.93,26833.93,On Time
+Government of Somalia,Somalia,2026-03-03,20303.28,20303.28,On Time
+Government of Somalia,Somalia,2026-04-02,20303.28,0.0,Missed
+Government of Somalia,Somalia,2026-05-02,20303.28,20303.28,On Time
+Government of Somalia,Somalia,2026-03-03,12265.11,12265.11,On Time
+Government of Somalia,Somalia,2026-04-02,12265.11,12265.11,On Time
+Government of Somalia,Somalia,2026-05-02,12265.11,12265.11,On Time
+CECA SL Generation Limited,Sierra Leone,2026-03-03,1808333.33,1808333.33,On Time
+CECA SL Generation Limited,Sierra Leone,2026-04-02,1808333.33,1808333.33,On Time
+CECA SL Generation Limited,Sierra Leone,2026-05-02,1808333.33,1808333.33,Late
+"SA Taxi Impact Fund (RF) Proprietary Limited II (""SATIF II"")",South Africa,2026-03-03,1375000.0,1375000.0,On Time
+"SA Taxi Impact Fund (RF) Proprietary Limited II (""SATIF II"")",South Africa,2026-04-02,1375000.0,1375000.0,On Time
+"SA Taxi Impact Fund (RF) Proprietary Limited II (""SATIF II"")",South Africa,2026-05-02,1375000.0,1375000.0,On Time
+DFCC Bank Plc,Sri Lanka,2026-03-03,1375000.0,1375000.0,On Time
+DFCC Bank Plc,Sri Lanka,2026-04-02,1375000.0,1375000.0,On Time
+DFCC Bank Plc,Sri Lanka,2026-05-02,1375000.0,1375000.0,On Time
+National Development Bank PLC,Sri Lanka,2026-03-03,687500.0,687500.0,On Time
+National Development Bank PLC,Sri Lanka,2026-04-02,687500.0,687500.0,Late
+National Development Bank PLC,Sri Lanka,2026-05-02,687500.0,687500.0,On Time
+Hattha Bank Plc.,Cambodia,2026-03-03,458333.33,458333.33,On Time
+Hattha Bank Plc.,Cambodia,2026-04-02,458333.33,458333.33,On Time
+Hattha Bank Plc.,Cambodia,2026-05-02,458333.33,458333.33,On Time
+Motilal Oswal Home Finance Limited,India,2026-03-03,458333.33,458333.33,On Time
+Motilal Oswal Home Finance Limited,India,2026-04-02,458333.33,458333.33,On Time
+Motilal Oswal Home Finance Limited,India,2026-05-02,458333.33,458333.33,On Time
+Sanasa Development Bank,Sri Lanka,2026-03-03,366666.67,366666.67,On Time
+Sanasa Development Bank,Sri Lanka,2026-04-02,366666.67,366666.67,On Time
+Sanasa Development Bank,Sri Lanka,2026-05-02,366666.67,366666.67,On Time
+CreditAccess Grameen Limited,India,2026-03-03,320833.33,320833.33,On Time
+CreditAccess Grameen Limited,India,2026-04-02,320833.33,320833.33,On Time
+CreditAccess Grameen Limited,India,2026-05-02,320833.33,320833.33,On Time
+India Shelter Finance corporation limited,India,2026-03-03,275000.0,275000.0,On Time
+India Shelter Finance corporation limited,India,2026-04-02,275000.0,0.0,Missed
+India Shelter Finance corporation limited,India,2026-05-02,275000.0,275000.0,On Time
+Lendable Inc.,Africa Regional,2026-03-03,183333.33,183333.33,On Time
+Lendable Inc.,Africa Regional,2026-04-02,183333.33,183333.33,On Time
+Lendable Inc.,Africa Regional,2026-05-02,183333.33,183333.33,Late
+NeoGrowth Credit Private Limited,India,2026-03-03,183333.33,183333.33,On Time
+NeoGrowth Credit Private Limited,India,2026-04-02,183333.33,183333.33,Late
+NeoGrowth Credit Private Limited,India,2026-05-02,183333.33,183333.33,On Time
+International Bank (Liberia) Limited,Liberia,2026-03-03,183333.33,0.0,Missed
+International Bank (Liberia) Limited,Liberia,2026-04-02,183333.33,183333.33,On Time
+International Bank (Liberia) Limited,Liberia,2026-05-02,183333.33,0.0,Missed
+Nithio FI B.V.,Africa Regional,2026-03-03,91666.67,91666.67,Late
+Nithio FI B.V.,Africa Regional,2026-04-02,91666.67,91666.67,On Time
+Nithio FI B.V.,Africa Regional,2026-05-02,91666.67,91666.67,On Time
+Spark+ Africa Fund,Africa Regional,2026-03-03,91666.67,91666.67,On Time
+Spark+ Africa Fund,Africa Regional,2026-04-02,91666.67,91666.67,Late
+Spark+ Africa Fund,Africa Regional,2026-05-02,91666.67,91666.67,On Time
+Abound Capital Master Fund I Pte. Ltd.,Asia Regional,2026-03-03,91666.67,91666.67,Late
+Abound Capital Master Fund I Pte. Ltd.,Asia Regional,2026-04-02,91666.67,91666.67,On Time
+Abound Capital Master Fund I Pte. Ltd.,Asia Regional,2026-05-02,91666.67,91666.67,On Time
+"Apollo Agriculture, Inc.",Kenya,2026-03-03,87083.33,87083.33,On Time
+"Apollo Agriculture, Inc.",Kenya,2026-04-02,87083.33,87083.33,On Time
+"Apollo Agriculture, Inc.",Kenya,2026-05-02,87083.33,87083.33,On Time
+Ampersand Rwanda Ltd. and Ampersand E- Mobility Ltd.,Rwanda,2026-03-03,82500.0,82500.0,On Time
+Ampersand Rwanda Ltd. and Ampersand E- Mobility Ltd.,Rwanda,2026-04-02,82500.0,82500.0,On Time
+Ampersand Rwanda Ltd. and Ampersand E- Mobility Ltd.,Rwanda,2026-05-02,82500.0,82500.0,On Time
+Zamuka Future of Work Fund PLC,Africa Regional,2026-03-03,64166.67,64166.67,On Time
+Zamuka Future of Work Fund PLC,Africa Regional,2026-04-02,64166.67,64166.67,On Time
+Zamuka Future of Work Fund PLC,Africa Regional,2026-05-02,64166.67,64166.67,On Time
+Africa Healthcare Network,Africa Regional,2026-03-03,50000.0,50000.0,On Time
+Africa Healthcare Network,Africa Regional,2026-04-02,50000.0,50000.0,On Time
+Africa Healthcare Network,Africa Regional,2026-05-02,50000.0,50000.0,On Time
+First Finance Plc,Cambodia,2026-03-03,45833.33,45833.33,On Time
+First Finance Plc,Cambodia,2026-04-02,45833.33,45833.33,On Time
+First Finance Plc,Cambodia,2026-05-02,45833.33,45833.33,On Time
+UC Inclusive Credit Private Limited,India,2026-03-03,45833.33,45833.33,On Time
+UC Inclusive Credit Private Limited,India,2026-04-02,45833.33,45833.33,On Time
+UC Inclusive Credit Private Limited,India,2026-05-02,45833.33,45833.33,On Time
+Lending for Education in Africa Partnership (Leap Trust Ltd.),Kenya,2026-03-03,36666.67,36666.67,On Time
+Lending for Education in Africa Partnership (Leap Trust Ltd.),Kenya,2026-04-02,36666.67,36666.67,On Time
+Lending for Education in Africa Partnership (Leap Trust Ltd.),Kenya,2026-05-02,36666.67,36666.67,On Time
+Franchise Impact Solutions Facility,Africa Regional,2026-03-03,12677.5,12677.5,On Time
+Franchise Impact Solutions Facility,Africa Regional,2026-04-02,12677.5,0.0,Missed
+Franchise Impact Solutions Facility,Africa Regional,2026-05-02,12677.5,12677.5,On Time
+57 Stars Direct Impact,Kenya,2026-03-03,458333.33,458333.33,On Time
+57 Stars Direct Impact,Kenya,2026-04-02,458333.33,458333.33,Late
+57 Stars Direct Impact,Kenya,2026-05-02,458333.33,458333.33,On Time
+Patamar II,Asia Regional,2026-03-03,178750.0,178750.0,On Time
+Patamar II,Asia Regional,2026-04-02,178750.0,178750.0,On Time
+Patamar II,Asia Regional,2026-05-02,178750.0,178750.0,On Time
+Sabre Partners Fund - SP Fund 2019,India,2026-03-03,137500.0,137500.0,On Time
+Sabre Partners Fund - SP Fund 2019,India,2026-04-02,137500.0,137500.0,Late
+Sabre Partners Fund - SP Fund 2019,India,2026-05-02,137500.0,0.0,Missed
+Access Bank Plc,Nigeria,2026-03-03,2566666.67,2566666.67,On Time
+Access Bank Plc,Nigeria,2026-04-02,2566666.67,2566666.67,On Time
+Access Bank Plc,Nigeria,2026-05-02,2566666.67,2566666.67,On Time
+Shriram Transport Finance Company,India,2026-03-03,2291666.67,2291666.67,On Time
+Shriram Transport Finance Company,India,2026-04-02,2291666.67,2291666.67,On Time
+Shriram Transport Finance Company,India,2026-05-02,2291666.67,2291666.67,On Time
+Southeast Asia Commercial Joint Stock Bank,Vietnam,2026-03-03,1833333.33,1833333.33,On Time
+Southeast Asia Commercial Joint Stock Bank,Vietnam,2026-04-02,1833333.33,1833333.33,On Time
+Southeast Asia Commercial Joint Stock Bank,Vietnam,2026-05-02,1833333.33,1833333.33,On Time
+IndusInd Bank Limited,India,2026-03-03,1375000.0,1375000.0,On Time
+IndusInd Bank Limited,India,2026-04-02,1375000.0,1375000.0,On Time
+IndusInd Bank Limited,India,2026-05-02,1375000.0,1375000.0,On Time
+Mirova Gigaton Fund,Africa Regional,2026-03-03,916666.67,916666.67,On Time
+Mirova Gigaton Fund,Africa Regional,2026-04-02,916666.67,916666.67,On Time
+Mirova Gigaton Fund,Africa Regional,2026-05-02,916666.67,916666.67,On Time
+RBL Bank,India,2026-03-03,916666.67,916666.67,On Time
+RBL Bank,India,2026-04-02,916666.67,916666.67,On Time
+RBL Bank,India,2026-05-02,916666.67,916666.67,On Time
+NMB Bank Ltd.,Nepal,2026-03-03,916666.67,916666.67,On Time
+NMB Bank Ltd.,Nepal,2026-04-02,916666.67,916666.67,On Time
+NMB Bank Ltd.,Nepal,2026-05-02,916666.67,916666.67,On Time
+Commercial Bank of Ceylon PLC,Sri Lanka,2026-03-03,916666.67,916666.67,On Time
+Commercial Bank of Ceylon PLC,Sri Lanka,2026-04-02,916666.67,916666.67,On Time
+Commercial Bank of Ceylon PLC,Sri Lanka,2026-05-02,916666.67,916666.67,On Time
+IIFL Home Finance Limited,India,2026-03-03,458333.33,458333.33,On Time
+IIFL Home Finance Limited,India,2026-04-02,458333.33,458333.33,On Time
+IIFL Home Finance Limited,India,2026-05-02,458333.33,458333.33,On Time
+Laxmi Bank,Nepal,2026-03-03,412500.0,412500.0,On Time
+Laxmi Bank,Nepal,2026-04-02,412500.0,412500.0,On Time
+Laxmi Bank,Nepal,2026-05-02,412500.0,412500.0,Late
+Fusion Micro Finance Limited,India,2026-03-03,229166.67,229166.67,On Time
+Fusion Micro Finance Limited,India,2026-04-02,229166.67,229166.67,On Time
+Fusion Micro Finance Limited,India,2026-05-02,229166.67,229166.67,On Time
+Golomoti JCM Solar Corporation Limited,Malawi,2026-03-03,208333.33,208333.33,On Time
+Golomoti JCM Solar Corporation Limited,Malawi,2026-04-02,208333.33,0.0,Missed
+Golomoti JCM Solar Corporation Limited,Malawi,2026-05-02,208333.33,208333.33,On Time
+AgDevCo,Africa Regional,2026-03-03,183333.33,183333.33,On Time
+AgDevCo,Africa Regional,2026-04-02,183333.33,183333.33,On Time
+AgDevCo,Africa Regional,2026-05-02,183333.33,183333.33,On Time
+"SDG Investment Fund S.A., SICAV-RAIF (Senior)",Africa Regional,2026-03-03,183333.33,183333.33,On Time
+"SDG Investment Fund S.A., SICAV-RAIF (Senior)",Africa Regional,2026-04-02,183333.33,0.0,Missed
+"SDG Investment Fund S.A., SICAV-RAIF (Senior)",Africa Regional,2026-05-02,183333.33,183333.33,On Time
+"SDG Investment Fund S.A., SICAV-RAIF (Junior)",Africa Regional,2026-03-03,183333.33,183333.33,On Time
+"SDG Investment Fund S.A., SICAV-RAIF (Junior)",Africa Regional,2026-04-02,183333.33,183333.33,On Time
+"SDG Investment Fund S.A., SICAV-RAIF (Junior)",Africa Regional,2026-05-02,183333.33,183333.33,On Time
+One Acre Fund,Africa Regional,2026-03-03,183333.33,183333.33,On Time
+One Acre Fund,Africa Regional,2026-04-02,183333.33,183333.33,On Time
+One Acre Fund,Africa Regional,2026-05-02,183333.33,183333.33,On Time
+Orb Energy II,India,2026-03-03,166666.67,166666.67,On Time
+Orb Energy II,India,2026-04-02,166666.67,166666.67,On Time
+Orb Energy II,India,2026-05-02,166666.67,166666.67,On Time
+Brighter Life Kenya 2,Kenya,2026-03-03,166666.67,166666.67,On Time
+Brighter Life Kenya 2,Kenya,2026-04-02,166666.67,166666.67,On Time
+Brighter Life Kenya 2,Kenya,2026-05-02,166666.67,166666.67,On Time
+Bogd Bank JSC,Mongolia,2026-03-03,137500.0,137500.0,Late
+Bogd Bank JSC,Mongolia,2026-04-02,137500.0,0.0,Missed
+Bogd Bank JSC,Mongolia,2026-05-02,137500.0,137500.0,On Time
+Eco Farm Mocambique Limitada,Mozambique,2026-03-03,108333.33,108333.33,On Time
+Eco Farm Mocambique Limitada,Mozambique,2026-04-02,108333.33,108333.33,On Time
+Eco Farm Mocambique Limitada,Mozambique,2026-05-02,108333.33,108333.33,On Time
+First Housing Finance (Tanzania) Ltd,Tanzania,2026-03-03,91666.67,0.0,Missed
+First Housing Finance (Tanzania) Ltd,Tanzania,2026-04-02,91666.67,91666.67,On Time
+First Housing Finance (Tanzania) Ltd,Tanzania,2026-05-02,91666.67,91666.67,On Time
+"Khmer Water Supply Holding Co., Ltd.",Cambodia,2026-03-03,58333.33,58333.33,On Time
+"Khmer Water Supply Holding Co., Ltd.",Cambodia,2026-04-02,58333.33,58333.33,On Time
+"Khmer Water Supply Holding Co., Ltd.",Cambodia,2026-05-02,58333.33,58333.33,On Time
+Manibhavnam Home Finance India Pvt Ltd,India,2026-03-03,47391.67,47391.67,On Time
+Manibhavnam Home Finance India Pvt Ltd,India,2026-04-02,47391.67,47391.67,On Time
+Manibhavnam Home Finance India Pvt Ltd,India,2026-05-02,47391.67,47391.67,Late
+Mvuvi Holdings,Mozambique,2026-03-03,40625.0,40625.0,On Time
+Mvuvi Holdings,Mozambique,2026-04-02,40625.0,40625.0,On Time
+Mvuvi Holdings,Mozambique,2026-05-02,40625.0,0.0,Missed
+The Urban Resilience Fund,Africa Regional,2026-03-03,731500.0,731500.0,On Time
+The Urban Resilience Fund,Africa Regional,2026-04-02,731500.0,731500.0,On Time
+The Urban Resilience Fund,Africa Regional,2026-05-02,731500.0,731500.0,On Time
+Phatisa Food Fund 2 L.L.C.,Africa Regional,2026-03-03,687500.0,687500.0,On Time
+Phatisa Food Fund 2 L.L.C.,Africa Regional,2026-04-02,687500.0,687500.0,On Time
+Phatisa Food Fund 2 L.L.C.,Africa Regional,2026-05-02,687500.0,687500.0,On Time
+Greater Pacific Capital Private Investing India LP,India,2026-03-03,458333.33,458333.33,Late
+Greater Pacific Capital Private Investing India LP,India,2026-04-02,458333.33,458333.33,Late
+Greater Pacific Capital Private Investing India LP,India,2026-05-02,458333.33,458333.33,On Time
+Vietnam Prosperity Joint Stock Commercial Bank,Vietnam,2026-03-03,2750000.0,0.0,Missed
+Vietnam Prosperity Joint Stock Commercial Bank,Vietnam,2026-04-02,2750000.0,2750000.0,On Time
+Vietnam Prosperity Joint Stock Commercial Bank,Vietnam,2026-05-02,2750000.0,2750000.0,Late
+Siddhartha Bank Limited,Nepal,2026-03-03,916666.67,916666.67,On Time
+Siddhartha Bank Limited,Nepal,2026-04-02,916666.67,916666.67,On Time
+Siddhartha Bank Limited,Nepal,2026-05-02,916666.67,916666.67,On Time
+Tien Phong Commercial Joint Stock Bank,Vietnam,2026-03-03,916666.67,0.0,Missed
+Tien Phong Commercial Joint Stock Bank,Vietnam,2026-04-02,916666.67,916666.67,On Time
+Tien Phong Commercial Joint Stock Bank,Vietnam,2026-05-02,916666.67,916666.67,Late
+Home First Finance Company,India,2026-03-03,687500.0,687500.0,On Time
+Home First Finance Company,India,2026-04-02,687500.0,687500.0,On Time
+Home First Finance Company,India,2026-05-02,687500.0,687500.0,On Time
+Vistaar Financial Services Private Limited,India,2026-03-03,458333.33,458333.33,On Time
+Vistaar Financial Services Private Limited,India,2026-04-02,458333.33,458333.33,On Time
+Vistaar Financial Services Private Limited,India,2026-05-02,458333.33,458333.33,Late
+Citizens Development Business Finance PLC,Sri Lanka,2026-03-03,275000.0,275000.0,Late
+Citizens Development Business Finance PLC,Sri Lanka,2026-04-02,275000.0,275000.0,On Time
+Citizens Development Business Finance PLC,Sri Lanka,2026-05-02,275000.0,275000.0,Late
+Ummeed Housing Finance Private Limited,India,2026-03-03,183333.33,183333.33,On Time
+Ummeed Housing Finance Private Limited,India,2026-04-02,183333.33,183333.33,On Time
+Ummeed Housing Finance Private Limited,India,2026-05-02,183333.33,183333.33,On Time
+Inclusive Capital Fund Pte. Ltd.,Indonesia,2026-03-03,183333.33,183333.33,On Time
+Inclusive Capital Fund Pte. Ltd.,Indonesia,2026-04-02,183333.33,183333.33,On Time
+Inclusive Capital Fund Pte. Ltd.,Indonesia,2026-05-02,183333.33,183333.33,Late
+Pahal Financial Services Private Limited,India,2026-03-03,110000.0,110000.0,On Time
+Pahal Financial Services Private Limited,India,2026-04-02,110000.0,110000.0,On Time
+Pahal Financial Services Private Limited,India,2026-05-02,110000.0,110000.0,On Time
+IndoPacific Liquidity Facility PTE LTD,Asia Regional,2026-03-03,91666.67,91666.67,On Time
+IndoPacific Liquidity Facility PTE LTD,Asia Regional,2026-04-02,91666.67,91666.67,Late
+IndoPacific Liquidity Facility PTE LTD,Asia Regional,2026-05-02,91666.67,91666.67,On Time
+BBOXX CAPITAL RDC SARL,Democratic Republic Of Congo,2026-03-03,83333.33,83333.33,On Time
+BBOXX CAPITAL RDC SARL,Democratic Republic Of Congo,2026-04-02,83333.33,83333.33,On Time
+BBOXX CAPITAL RDC SARL,Democratic Republic Of Congo,2026-05-02,83333.33,0.0,Missed
+Clime Finance Private Limited,India,2026-03-03,91666.67,91666.67,On Time
+Clime Finance Private Limited,India,2026-04-02,91666.67,91666.67,On Time
+Clime Finance Private Limited,India,2026-05-02,91666.67,91666.67,On Time
+Hewa Tele Medical Oxygen,Kenya,2026-03-03,100000.0,100000.0,On Time
+Hewa Tele Medical Oxygen,Kenya,2026-04-02,100000.0,100000.0,On Time
+Hewa Tele Medical Oxygen,Kenya,2026-05-02,100000.0,100000.0,On Time
+UsPlus Limited,South Africa,2026-03-03,73333.33,73333.33,On Time
+UsPlus Limited,South Africa,2026-04-02,73333.33,73333.33,On Time
+UsPlus Limited,South Africa,2026-05-02,73333.33,73333.33,On Time
+Aristo Securities Private Limited (Revfin),India,2026-03-03,45833.33,45833.33,On Time
+Aristo Securities Private Limited (Revfin),India,2026-04-02,45833.33,45833.33,On Time
+Aristo Securities Private Limited (Revfin),India,2026-05-02,45833.33,45833.33,On Time
+"Kaebauk Investimentu No Finansas, SA",Timor-Leste,2026-03-03,27500.0,27500.0,On Time
+"Kaebauk Investimentu No Finansas, SA",Timor-Leste,2026-04-02,27500.0,27500.0,On Time
+"Kaebauk Investimentu No Finansas, SA",Timor-Leste,2026-05-02,27500.0,27500.0,On Time
+CRDB BANK PLC,Tanzania,2026-03-03,2750000.0,2750000.0,On Time
+CRDB BANK PLC,Tanzania,2026-04-02,2750000.0,2750000.0,On Time
+CRDB BANK PLC,Tanzania,2026-05-02,2750000.0,2750000.0,On Time
+CECA SL Generation Limited,Sierra Leone,2026-03-03,2433333.33,2433333.33,On Time
+CECA SL Generation Limited,Sierra Leone,2026-04-02,2433333.33,2433333.33,On Time
+CECA SL Generation Limited,Sierra Leone,2026-05-02,2433333.33,2433333.33,On Time
+Africa Finance Corporation,Nigeria,2026-03-03,2291666.67,2291666.67,On Time
+Africa Finance Corporation,Nigeria,2026-04-02,2291666.67,2291666.67,On Time
+Africa Finance Corporation,Nigeria,2026-05-02,2291666.67,2291666.67,On Time
+Nigeria Mortgage Refinance Company Plc,Nigeria,2026-03-03,1833333.33,1833333.33,On Time
+Nigeria Mortgage Refinance Company Plc,Nigeria,2026-04-02,1833333.33,1833333.33,On Time
+Nigeria Mortgage Refinance Company Plc,Nigeria,2026-05-02,1833333.33,1833333.33,On Time
+PT Medco Cahaya Geothermal,Indonesia,2026-03-03,1050000.0,1050000.0,On Time
+PT Medco Cahaya Geothermal,Indonesia,2026-04-02,1050000.0,1050000.0,On Time
+PT Medco Cahaya Geothermal,Indonesia,2026-05-02,1050000.0,1050000.0,On Time
+Trade and Development Bank JSC,Mongolia,2026-03-03,1100000.0,0.0,Missed
+Trade and Development Bank JSC,Mongolia,2026-04-02,1100000.0,1100000.0,On Time
+Trade and Development Bank JSC,Mongolia,2026-05-02,1100000.0,1100000.0,On Time
+First City Monument Bank Limited,Nigeria,2026-03-03,916666.67,916666.67,On Time
+First City Monument Bank Limited,Nigeria,2026-04-02,916666.67,916666.67,On Time
+First City Monument Bank Limited,Nigeria,2026-05-02,916666.67,916666.67,On Time
+SFC Finance Limited,Africa Regional,2026-03-03,595833.33,595833.33,On Time
+SFC Finance Limited,Africa Regional,2026-04-02,595833.33,595833.33,On Time
+SFC Finance Limited,Africa Regional,2026-05-02,595833.33,595833.33,On Time
+M-Kopa Kenya Limited,Kenya,2026-03-03,467500.0,467500.0,On Time
+M-Kopa Kenya Limited,Kenya,2026-04-02,467500.0,0.0,Missed
+M-Kopa Kenya Limited,Kenya,2026-05-02,467500.0,467500.0,On Time
+Vastu Housing Finance Corporation Limited,India,2026-03-03,458333.33,458333.33,On Time
+Vastu Housing Finance Corporation Limited,India,2026-04-02,458333.33,458333.33,On Time
+Vastu Housing Finance Corporation Limited,India,2026-05-02,458333.33,458333.33,Late
+Northern Arc investments IFSC Trust,India,2026-03-03,458333.33,458333.33,On Time
+Northern Arc investments IFSC Trust,India,2026-04-02,458333.33,458333.33,Late
+Northern Arc investments IFSC Trust,India,2026-05-02,458333.33,458333.33,On Time
+InCred Financial Services Limited,India,2026-03-03,458333.33,458333.33,On Time
+InCred Financial Services Limited,India,2026-04-02,458333.33,458333.33,On Time
+InCred Financial Services Limited,India,2026-05-02,458333.33,458333.33,On Time
+Africa GreenCo Group Limited,Africa Regional,2026-03-03,333333.33,333333.33,On Time
+Africa GreenCo Group Limited,Africa Regional,2026-04-02,333333.33,0.0,Missed
+Africa GreenCo Group Limited,Africa Regional,2026-05-02,333333.33,333333.33,On Time
+APAC Financial Services Private Limited,India,2026-03-03,366666.67,366666.67,Late
+APAC Financial Services Private Limited,India,2026-04-02,366666.67,366666.67,On Time
+APAC Financial Services Private Limited,India,2026-05-02,366666.67,366666.67,On Time
+Ugro Capital Limited,India,2026-03-03,366666.67,366666.67,On Time
+Ugro Capital Limited,India,2026-04-02,366666.67,366666.67,On Time
+Ugro Capital Limited,India,2026-05-02,366666.67,366666.67,On Time
+AgDevCo Limited,Africa Regional,2026-03-03,275000.0,275000.0,On Time
+AgDevCo Limited,Africa Regional,2026-04-02,275000.0,275000.0,On Time
+AgDevCo Limited,Africa Regional,2026-05-02,275000.0,0.0,Missed
+Satya MicroCapital Limited,India,2026-03-03,183333.33,183333.33,On Time
+Satya MicroCapital Limited,India,2026-04-02,183333.33,183333.33,On Time
+Satya MicroCapital Limited,India,2026-05-02,183333.33,183333.33,On Time
+Victory Farms Limited,Kenya,2026-03-03,216666.67,216666.67,On Time
+Victory Farms Limited,Kenya,2026-04-02,216666.67,216666.67,On Time
+Victory Farms Limited,Kenya,2026-05-02,216666.67,216666.67,On Time
+Robust International Pte. Ltd.,Nigeria,2026-03-03,216666.67,216666.67,On Time
+Robust International Pte. Ltd.,Nigeria,2026-04-02,216666.67,216666.67,On Time
+Robust International Pte. Ltd.,Nigeria,2026-05-02,216666.67,216666.67,Late
+Lhoopa Singapore Pte. Ltd,Philippines,2026-03-03,183333.33,0.0,Missed
+Lhoopa Singapore Pte. Ltd,Philippines,2026-04-02,183333.33,183333.33,On Time
+Lhoopa Singapore Pte. Ltd,Philippines,2026-05-02,183333.33,183333.33,On Time
+Mufin Green Finance Limited,India,2026-03-03,165000.0,165000.0,On Time
+Mufin Green Finance Limited,India,2026-04-02,165000.0,165000.0,On Time
+Mufin Green Finance Limited,India,2026-05-02,165000.0,0.0,Missed
+2X Ignite Africa Warehousing Facility SCSp,Africa Regional,2026-03-03,91666.67,91666.67,On Time
+2X Ignite Africa Warehousing Facility SCSp,Africa Regional,2026-04-02,91666.67,91666.67,On Time
+2X Ignite Africa Warehousing Facility SCSp,Africa Regional,2026-05-02,91666.67,91666.67,On Time
+SIMA Commercial & Industrial Solar Green Bond B.V. (Super Senior Tranche),Africa Regional,2026-03-03,91666.67,91666.67,On Time
+SIMA Commercial & Industrial Solar Green Bond B.V. (Super Senior Tranche),Africa Regional,2026-04-02,91666.67,91666.67,On Time
+SIMA Commercial & Industrial Solar Green Bond B.V. (Super Senior Tranche),Africa Regional,2026-05-02,91666.67,91666.67,On Time
+SIMA Commercial & Industrial Solar Green Bond B.V. (Senior C Tranche),Africa Regional,2026-03-03,91666.67,91666.67,On Time
+SIMA Commercial & Industrial Solar Green Bond B.V. (Senior C Tranche),Africa Regional,2026-04-02,91666.67,91666.67,On Time
+SIMA Commercial & Industrial Solar Green Bond B.V. (Senior C Tranche),Africa Regional,2026-05-02,91666.67,91666.67,On Time
+WheelsEMI Private Limited,India,2026-03-03,91666.67,91666.67,On Time
+WheelsEMI Private Limited,India,2026-04-02,91666.67,91666.67,On Time
+WheelsEMI Private Limited,India,2026-05-02,91666.67,91666.67,On Time
+Mogo Auto Limited,Kenya,2026-03-03,91666.67,91666.67,On Time
+Mogo Auto Limited,Kenya,2026-04-02,91666.67,91666.67,On Time
+Mogo Auto Limited,Kenya,2026-05-02,91666.67,91666.67,On Time
+One Global Medical Technology Limited,Nigeria,2026-03-03,83416.67,0.0,Missed
+One Global Medical Technology Limited,Nigeria,2026-04-02,83416.67,83416.67,On Time
+One Global Medical Technology Limited,Nigeria,2026-05-02,83416.67,83416.67,On Time
+Svakarma Finance Private Limited,India,2026-03-03,73333.33,73333.33,On Time
+Svakarma Finance Private Limited,India,2026-04-02,73333.33,0.0,Missed
+Svakarma Finance Private Limited,India,2026-05-02,73333.33,73333.33,On Time
+Barka Capital Debt SPV,Africa Regional,2026-03-03,64166.67,64166.67,On Time
+Barka Capital Debt SPV,Africa Regional,2026-04-02,64166.67,64166.67,On Time
+Barka Capital Debt SPV,Africa Regional,2026-05-02,64166.67,0.0,Missed
+Turaco Inc.,Africa Regional,2026-03-03,64166.67,64166.67,Late
+Turaco Inc.,Africa Regional,2026-04-02,64166.67,64166.67,On Time
+Turaco Inc.,Africa Regional,2026-05-02,64166.67,64166.67,On Time
+SUSTAINABLE SOLAR ASSETS 1 (PTY) LTD,Africa Regional,2026-03-03,50906.67,50906.67,On Time
+SUSTAINABLE SOLAR ASSETS 1 (PTY) LTD,Africa Regional,2026-04-02,50906.67,50906.67,On Time
+SUSTAINABLE SOLAR ASSETS 1 (PTY) LTD,Africa Regional,2026-05-02,50906.67,50906.67,On Time
+DIAOUNE AGRO INDUSTRIE SARL,Guinea,2026-03-03,59583.33,59583.33,On Time
+DIAOUNE AGRO INDUSTRIE SARL,Guinea,2026-04-02,59583.33,59583.33,On Time
+DIAOUNE AGRO INDUSTRIE SARL,Guinea,2026-05-02,59583.33,59583.33,On Time
+Kaleidofin Capital Private Limited,India,2026-03-03,45833.33,45833.33,On Time
+Kaleidofin Capital Private Limited,India,2026-04-02,45833.33,0.0,Missed
+Kaleidofin Capital Private Limited,India,2026-05-02,45833.33,45833.33,On Time
+Balloon Ventures Limited,Uganda,2026-03-03,45833.33,45833.33,On Time
+Balloon Ventures Limited,Uganda,2026-04-02,45833.33,45833.33,On Time
+Balloon Ventures Limited,Uganda,2026-05-02,45833.33,45833.33,On Time
+Community Markets for Conservation Limited (COMACO),Zambia,2026-03-03,54166.67,54166.67,On Time
+Community Markets for Conservation Limited (COMACO),Zambia,2026-04-02,54166.67,54166.67,On Time
+Community Markets for Conservation Limited (COMACO),Zambia,2026-05-02,54166.67,54166.67,On Time
+Cinch Markets Limited,Kenya,2026-03-03,10833.33,10833.33,On Time
+Cinch Markets Limited,Kenya,2026-04-02,10833.33,0.0,Missed
+Cinch Markets Limited,Kenya,2026-05-02,10833.33,10833.33,Late
+"ISQ Asia Fund III/GM, L.P.",Asia Regional,2026-03-03,245666.67,245666.67,On Time
+"ISQ Asia Fund III/GM, L.P.",Asia Regional,2026-04-02,245666.67,0.0,Missed
+"ISQ Asia Fund III/GM, L.P.",Asia Regional,2026-05-02,245666.67,0.0,Missed
+JC Growth Credit Fund I LP,Asia Regional,2026-03-03,183333.33,183333.33,On Time
+JC Growth Credit Fund I LP,Asia Regional,2026-04-02,183333.33,183333.33,On Time
+JC Growth Credit Fund I LP,Asia Regional,2026-05-02,183333.33,183333.33,On Time
