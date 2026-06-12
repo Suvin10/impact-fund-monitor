@@ -29,9 +29,9 @@ A end-to-end portfolio monitoring system for an impact debt fund, built with Pyt
 | clean_data.py | Cleans and shapes portfolio data |
 | simulate_data.py | Simulates payment and covenant data |
 | airtable_push.py | Pushes all data to Airtable via API |
-| covenant_check.py | Live analysis — flags breaches and missed payments |
+| covenant_check.py | Live analysis - flags breaches and missed payments |
 | report_generator.py | AI generates monthly investor report |
 
 ## Data Source
-U.S. International Development Finance Corporation (DFC) — FY2024 Annual Project Data
+U.S. International Development Finance Corporation (DFC) - FY2024 Annual Project Data
 https://www.dfc.gov/our-impact/transaction-data
