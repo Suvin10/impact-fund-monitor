@@ -1,0 +1,31 @@
+FUND MANAGER ACTION PLAN — May 2026
+============================================================
+**Action Plan for Fund Manager**
+
+### IMMEDIATE ACTIONS (this week)
+
+1. **Republic of Indonesia (Indonesia)**: Call to discuss $26,988 and $16,244 in missed payments. Review loan terms and assess the risk of further defaults. Amount at risk: $43,232.
+2. **International Bank (Liberia) Limited (Liberia)**: Contact to address $183,333 in missed payments. Verify the bank's current financial situation and potential impact on the portfolio. Amount at risk: $183,333.
+3. **Republic of India (India)**: Reach out to discuss $105,417 and $69,667 in missed payments. Evaluate the borrower's ability to meet future obligations. Amount at risk: $175,084.
+4. **Butama Hydro Electricity Company (Uganda)**: Call to resolve $113,750 in missed payments. Determine the cause of the default and potential solutions. Amount at risk: $113,750.
+
+### SHORT TERM (this month)
+
+1. **Restructuring Candidates**:
+	* **Iungo Capital B.V. (Africa Regional)**: DSCR of 0.81 indicates potential cash flow issues. Consider restructuring the loan to prevent further defaults.
+	* **Republic of Indonesia (Indonesia)**: With a DSCR of 0.85 and two instances of missed payments, restructuring may be necessary to ensure timely repayments.
+2. **Covenant Waivers to Consider**:
+	* **DIAOUNE AGRO INDUSTRIE SARL (Guinea)**: DSCR of 0.97 is close to the threshold. Consider a temporary covenant waiver to allow the borrower to recover.
+	* **Brighter Life Kenya 2 (Kenya)**: DSCR of 1.01 is borderline. Monitor the borrower's performance and consider a covenant waiver if necessary.
+3. **Loan Reviews**:
+	* **RBL Bank (India)**: Review the loan terms and assess the risk associated with a DSCR of 1.58 and D/E of 4.26.
+	* **Caspian Impact Investments II (India)**: Evaluate the loan's performance and consider potential adjustments to mitigate risks associated with a DSCR of 1.39 and D/E of 4.16.
+
+### WATCH LIST
+
+1. **Mvuvi Holdings (Mozambique)**: Monitor the borrower's performance closely, as the DSCR of 1.02 is borderline.
+2. **Paryapt Solar Energy Private Limited (India)**: Keep a close eye on the borrower's cash flow, given the DSCR of 1.16 and D/E of 3.05.
+3. **Government of Somalia (Somalia)**: Watch the borrower's progress, as the DSCR of 1.1 and D/E of 1.86 may indicate potential risks.
+4. **LuccaHealth Medical Specialty Center Ghana Limited (Ghana)**: Monitor the borrower's ability to meet future obligations, considering the $75,000 in missed payments.
+
+By following this action plan, the fund manager can address immediate concerns, proactively manage potential risks, and ensure the overall health of the impact fund portfolio.

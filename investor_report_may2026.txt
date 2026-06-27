@@ -4,28 +4,14 @@ May 2026
 **Monthly Investor Report - May 2026**
 
 ## Executive Summary
-The portfolio health score of 77.0/100 indicates a relatively stable position, 
-with a collection rate of 92.6% and an on-time payment rate of 80.0%. However, 
-covenant breaches and missed payments require active monitoring and engagement. 
-Overall, the portfolio's performance is being closely watched, and proactive measures 
-are being taken to address potential risks.
+The portfolio's health score of 77.0/100 indicates a relatively stable performance, with a collection rate of 92.6% and an on-time payment rate of 80.0%. However, we note that 63 loans are in covenant breach, and 72 instances of missed payments have occurred, highlighting areas for focused attention. Overall, the portfolio's metrics suggest a need for continued monitoring and proactive management.
 
 ## Key Risks & Action Items
-* RBL Bank (India) and Caspian Impact Investments II (India) have high debt-to-equity 
-ratios, warranting close scrutiny and potential restructuring discussions.
-* Republic of Indonesia (Indonesia) and Republic of India (India) have exhibited multiple 
-instances of missed payments, requiring immediate attention and follow-up with the borrowers.
-* DIAOUNE AGRO INDUSTRIE SARL (Guinea) and Iungo Capital B.V. (Africa Regional) have debt 
-service coverage ratios below 1.0, necessitating a review of their financial projections 
-and potential collateral adjustments.
-* Butama Hydro Electricity Company (Uganda) and International Bank (Liberia) Limited (Liberia) 
-have significant outstanding missed payments, prompting urgent communication with the borrowers 
-to rectify the situation.
+* RBL Bank (India): High debt-to-equity ratio of 4.26 warrants close monitoring and potential engagement with management to address leverage concerns.
+* Republic of Indonesia (Indonesia): Covenant breach due to low DSCR of 0.85 requires immediate attention, including review of repayment schedules and potential restructuring.
+* Butama Hydro Electricity Company (Uganda) and International Bank (Liberia) Limited (Liberia): Large missed payments of $113,750 and $183,333, respectively, necessitate prompt follow-up and collection efforts.
+* Iungo Capital B.V. (Africa Regional) and Brighter Life Kenya 2 (Kenya): Low DSCR and high debt-to-equity ratios demand enhanced scrutiny and potential mitigation strategies.
+* Engagement with Republic of India (India) and Republic of Indonesia (Indonesia) to address recurring missed payments and covenant breaches.
 
 ## Outlook
-In the coming month, the investment team will prioritize proactive engagement with borrowers 
-exhibiting covenant breaches and missed payments, with a focus on restructuring and repayment plans. 
-Additionally, the team will conduct in-depth reviews of the portfolio's risk profile, stress-testing 
-the portfolio against various economic scenarios to ensure its resilience. Regular updates will be 
-provided to investors on the progress of these efforts, and the team remains committed to maintaining 
-a prudent and active approach to portfolio management.
+In the coming month, our team will prioritize the following actions: (1) conducting in-depth reviews of borrowers with high leverage and low DSCR, (2) engaging with management teams to address covenant breaches and Payment delinquencies, and (3) exploring restructuring options for select borrowers. We will also continue to monitor the overall portfolio's health and adjust our strategy as needed to maintain a balanced risk-return profile. Our goal is to proactively manage the portfolio's risks and capitalize on opportunities to optimize returns for our investors.

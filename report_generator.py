@@ -74,3 +74,51 @@ with open("investor_report_may2026.txt", "w", encoding="utf-8") as f:
     f.write(report)
 
 print("\nReport saved to investor_report_may2026.txt")
+
+
+# ── Generate Action Items File ─────────────────────────────
+action_prompt = f"""
+Based on this impact fund portfolio data for May 2026:
+
+- Portfolio Health Score: {summary['health_score']}/100
+- Collection Rate: {summary['collection_rate']}%
+- Covenant Breaches: {summary['covenant_breaches']} loans
+- Missed Payments: {summary['missed_payments']} instances
+
+TOP COVENANT BREACHES:
+{breach_list}
+
+TOP MISSED PAYMENTS:
+{missed_list}
+
+Generate a clear action plan for the fund manager with:
+1. IMMEDIATE ACTIONS (this week) — specific borrowers to call, amounts at risk
+2. SHORT TERM (this month) — restructuring candidates, covenant waivers to consider
+3. WATCH LIST — borderline borrowers to monitor closely next month
+
+Be specific with borrower names, amounts, and recommended actions.
+Format as a practical decision-making guide, not a report.
+"""
+
+print("\nGenerating action plan...\n")
+
+action_response = client.chat.completions.create(
+    model="llama-3.3-70b-versatile",
+    messages=[{"role": "user", "content": action_prompt}],
+    max_tokens=1000
+)
+
+action_plan = action_response.choices[0].message.content
+
+print("=" * 60)
+print("FUND MANAGER ACTION PLAN — May 2026")
+print("=" * 60)
+print(action_plan)
+
+# ── Save action plan ───────────────────────────────────────
+with open("action_plan_may2026.txt", "w", encoding="utf-8") as f:
+    f.write("FUND MANAGER ACTION PLAN — May 2026\n")
+    f.write("=" * 60 + "\n")
+    f.write(action_plan)
+
+print("\nAction plan saved to action_plan_may2026.txt")
